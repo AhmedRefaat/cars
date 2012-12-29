@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  abs: false
+  front_airbags: false
+  side_airbags: false
+  rear_airbags: false
+  overheaded_airbags: false
+  lane_departure_warning: false
+  cancelable_passenger_airbag: false
+  child_sensing_airbag: false
+  ignition_disable: false
+  integrated_child_seat: false
+  security_system: false
+  run_flat_tires: false
+  stability: 
+  traction_control: false
+  road_side_assistance: false
+  brake_assist: false
+
+two:
+  abs: false
+  front_airbags: false
+  side_airbags: false
+  rear_airbags: false
+  overheaded_airbags: false
+  lane_departure_warning: false
+  cancelable_passenger_airbag: false
+  child_sensing_airbag: false
+  ignition_disable: false
+  integrated_child_seat: false
+  security_system: false
+  run_flat_tires: false
+  stability: 
+  traction_control: false
+  road_side_assistance: false
+  brake_assist: false

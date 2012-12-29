@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  central_door_locks: false
+  adjustable_pedals: false
+  electric_windows: false
+  electric_mirrors: false
+  electric_seats: false
+
+two:
+  central_door_locks: false
+  adjustable_pedals: false
+  electric_windows: false
+  electric_mirrors: false
+  electric_seats: false
