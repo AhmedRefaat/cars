@@ -1,0 +1,4 @@
+class AddColumnEnginePerformaceToNewCar < ActiveRecord::Migration
+  def change
+  end
+end

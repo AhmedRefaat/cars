@@ -1,0 +1,4 @@
+class AddColumnFuelTankToNewCar < ActiveRecord::Migration
+  def change
+  end
+end

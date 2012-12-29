@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121229182922) do
+ActiveRecord::Schema.define(:version => 20121229193846) do
 
   create_table "confort_types", :force => true do |t|
     t.boolean  "air_condition"
@@ -47,8 +47,10 @@ ActiveRecord::Schema.define(:version => 20121229182922) do
     t.integer  "performance"
     t.integer  "gearbox"
     t.string   "body_style"
-    t.datetime "created_at",     :null => false
-    t.datetime "updated_at",     :null => false
+    t.datetime "created_at",         :null => false
+    t.datetime "updated_at",         :null => false
+    t.string   "engine_performance"
+    t.integer  "fuel_tank"
   end
 
   create_table "oems", :force => true do |t|
